@@ -15,6 +15,7 @@ body{
     width: 100vw;
 }
 
+
 .photo{
    width: 200px;
    height:200px;
@@ -25,7 +26,7 @@ body{
 }
 .header{
 height: 100%;
-background-color: rgba(0, 0, 0, 0.336);
+background-color: rgba(24, 160, 126, 0.86);
 
 }
 
@@ -51,7 +52,8 @@ p{
     font-size: 30px;
 }
 a{
-    color: floralwhite;
+    color: white;
+    text-decoration: none;
     
 }
 
@@ -59,9 +61,12 @@ a{
     display: block;  
     font-size: 35px;
     background-color:rgba(0, 0, 0, 0.336) ;
-    margin: 15px;
-    max-width: 50%;
-    border-bottom:200px, royalblue;
+    margin-top: 20px;
+    margin-left: -50px;
+    max-width: 215px;
+    border:2px solid white;
+    text-transform: uppercase;
+  
     
 }
 
